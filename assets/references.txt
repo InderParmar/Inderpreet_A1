@@ -1,1 +1,33 @@
 Images in the assets folder are downloaded from the internet. 
+music.png
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pixelsquid.com%2Fpng%2Fsymbol-music-note-red-2609055291504858813&psig=AOvVaw3XbFPT3CNIbAcrQt5DaL8O&ust=1748227955827000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjnvOXOvY0DFQAAAAAdAAAAABAE
+
+audio1.png
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fthewalrus.ca%2Faudiobook-anxiety-and-what-constitutes-real-reading%2F&psig=AOvVaw1UfBLF9igOysuwsHvM3S4D&ust=1748228032414000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDNg4jPvY0DFQAAAAAdAAAAABAE
+
+playlist6.png
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dqgaopo7v3IY%26pp%3D0gcJCdgAo7VqN5tD&psig=AOvVaw354DvQedPNyX93sDAOkT1u&ust=1748228066720000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIC05ZnPvY0DFQAAAAAdAAAAABAE
+
+playlist 5.png
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F37i9dQZF1DWXVJK4aT7pmk&psig=AOvVaw2-5yRaHksL6pzftCES-bVL&ust=1748228116095000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDY_6_PvY0DFQAAAAAdAAAAABAE
+
+
+playlist4.png
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.allmusic.com%2Falbum%2Fpop-mix-mw0000599550&psig=AOvVaw1TwZcs72s5OWzpQHKtp1FH&ust=1748228148770000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNi7zcLPvY0DFQAAAAAdAAAAABAE
+
+playlist3.png
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deezer.com%2Fen%2Falbum%2F11678476&psig=AOvVaw213oYmvAkovquSzGIB4xHW&ust=1748228184224000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICuv9DPvY0DFQAAAAAdAAAAABAE
+
+
+playlist2.png
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fsidhu-moose-wala--612771093078371135%2F&psig=AOvVaw05vtgQVbYeBtXbs924hhxp&ust=1748228202572000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjroN3PvY0DFQAAAAAdAAAAABAE
+
+playlist1.png
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fsoundcloud.com%2Ftania-tania-658084779%2Fsets%2Fpunjabi-gym-songs&psig=AOvVaw0r22MO4ZogCqlpoFrii-0u&ust=1748228242695000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKC8xOzPvY0DFQAAAAAdAAAAABAE
+
+
+
+
+
+
