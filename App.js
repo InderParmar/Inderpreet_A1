@@ -18,10 +18,10 @@ export default function App() {
       {/* Week 1: StatusBar used with "auto"; here "light" - docs: https://docs.expo.dev/versions/latest/sdk/status-bar/ */}
 
       <TopNavBar /> 
-      {/* Custom Component - Valid: built using <View>, <Text>, <Image> as per assignment */}
+      {/* Custom Component - Valid: built using <View>, <Text>, <Image> as per assignment instructions*/}
 
       <HomeScreen /> 
-      {/* Custom Component - Same rule applies */}
+      {/* Custom Component - as per assignment instructions */}
     </View>
   );
 }
